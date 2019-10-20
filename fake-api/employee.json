@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "name": "Mustafa Murat Coşkun yeni input silme deneme",
+      "department": "Bilişim yeni",
+      "salary": 31313131,
+      "id": 2
+    },
+    {
+      "name": "Serhat Say",
+      "department": "Pazarlama yeni",
+      "salary": 7500,
+      "id": 3
+    },
+    {
+      "name": "Serhat Say",
+      "department": "Pazarlama",
+      "salary": 3000,
+      "id": 5
+    },
+    {
+      "name": "mert tosun",
+      "department": "yazılım",
+      "salary": 4000,
+      "id": 6
+    }
+  ]
+}
